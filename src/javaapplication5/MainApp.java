@@ -9,7 +9,7 @@ package javaapplication5;
  *
  * @author Valery
  */
-public class JavaApplication5 {
+public class MainApp {
 
     /**
      * @param args the command line arguments
